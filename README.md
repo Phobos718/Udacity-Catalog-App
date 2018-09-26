@@ -1,6 +1,6 @@
 ## Project 04 - Item Catalog (Book Catalog)
 
-This project is a Flask CRUD application that manages a book catalog in form of a SQL database. The site implements 3rd party authentication.
+This project is a basic Flask CRUD application, built for Udacity's FullStack Nanodegree, that manages a book catalog in form of a SQL database. The site implements 3rd party authentication.
 
 ## Prerequisites
 
